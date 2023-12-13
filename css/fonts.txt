@@ -1,0 +1,2 @@
+font-family: 'Nova Square', sans-serif;
+font-family: 'Nunito', sans-serif;
